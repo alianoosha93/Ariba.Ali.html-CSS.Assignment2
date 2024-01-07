@@ -1,0 +1,28 @@
+* { 
+  margin: 0;
+  padding: 0; 
+}
+body {
+  background-color: rgb(22, 11, 80);
+}
+div.main {
+width: 400px; ;
+margin: 100px auto 0px auto;
+}
+h2 { 
+text-align: center;
+padding: 20px;
+font-family: sans-serif;
+}
+div.register{
+  color: #fff;
+}
+input[type=text ],input[type=num],input[type=file]{
+  width: 100%;
+  padding: 2px 1px;
+  margin: 2px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: #090d3d;
+  color: white;
+}
